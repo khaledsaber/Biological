@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1544490674 source:c:\users\khaledsaber\desktop\biological\dna.cpp
+	"DNA.h"
+	<cstring>
+	<iostream>
+	<cstring>
+	<strings.h>
+	<string>
+	"Sequence.h"
+	"RNA.h"
+
+1544478545 c:\users\khaledsaber\desktop\biological\dna.h
+	"Sequence.h"
+	<string>
+	<iostream>
+
+1544564635 source:c:\users\khaledsaber\desktop\biological\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<strings.h>
+	"DNA.h"
+	"Sequence.h"
+	"CodonsTable.h"
+	"RNA.h"
+
+1543878142 source:c:\users\khaledsaber\desktop\biological\protein.cpp
+	"protein.h"
+
+1544494682 c:\users\khaledsaber\desktop\biological\protein.h
+	<iostream>
+	<cstring>
+	<strings.h>
+	"DNA.h"
+	"Sequence.h"
+	"RNA.h"
+
+1544493522 source:c:\users\khaledsaber\desktop\biological\rna.cpp
+	"RNA.h"
+	<iostream>
+	<cstring>
+	<strings.h>
+	"DNA.h"
+	"Sequence.h"
+
+1544487380 c:\users\khaledsaber\desktop\biological\rna.h
+	<iostream>
+	<cstring>
+	<strings.h>
+	"DNA.h"
+	"Sequence.h"
+
+1544391792 source:c:\users\khaledsaber\desktop\biological\sequence.cpp
+	"Sequence.h"
+	<cstring>
+	<iostream>
+
+1543963266 c:\users\khaledsaber\desktop\biological\sequence.h
+
+1544557047 source:c:\users\khaledsaber\desktop\biological\codonstable.cpp
+
+1544557317 c:\users\khaledsaber\desktop\biological\codonstable.h
+	<iostream>
+	<cstring>
+	<strings.h>
+
+1544498588 source:c:\users\khaledsaber\desktop\biological\untitled1.c
+
